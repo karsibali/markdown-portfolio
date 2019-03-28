@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I can do programming using languages like __C / C++__, __Java__, __Python__ and __Javascrit__.
+
